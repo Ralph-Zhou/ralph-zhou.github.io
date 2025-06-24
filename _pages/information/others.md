@@ -4,4 +4,4 @@
 
 # 💻 Internships
 
-- *2025.03 - now*, Research Intern, Tencent Hunyuan Team, Shenzhen, China.
+- *2025.03 - now*, Research Intern, Tencent Hunyuan X Team, Shenzhen, China.
