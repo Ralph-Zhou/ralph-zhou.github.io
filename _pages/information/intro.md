@@ -1,4 +1,4 @@
-Hello! I am a senior undergraduate student at Computing Faculty, Harbin Institute of Technology, expected to graduate in 2025. I'm also an incoming master student at Fudan University.
+Hello! I'm an incoming master student at Fudan University. I received bachelor's degree from Harbin Institute of Technology in 2025.
 
 My research interests lie in Large Language Models, Multimodal Learning, and Agents.
 
