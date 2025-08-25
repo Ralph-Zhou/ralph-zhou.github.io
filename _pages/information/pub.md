@@ -8,7 +8,7 @@
 
 - [Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](https://arxiv.org/abs/2503.09567), Qiguang Chen, Libo Qin, Jinhao Liu, Dengyun Peng, Jiannan Guan, Peng Wang, Mengkang Hu, **Yuhang Zhou**, Te Gao, Wanxiang Che. Arxiv 2025.
 
-- [DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective](https://arxiv.org/pdf/2503.13413), Dengyun Peng\*, **Yuhang Zhou\***, Qiguang Chen\*, Jinhao Liu, Jingjing Chen, Libo Qin. Arxiv 2025.
+- [DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective](https://arxiv.org/pdf/2503.13413), Dengyun Peng\*, **Yuhang Zhou\***, Qiguang Chen\*, Jinhao Liu, Jingjing Chen, Libo Qin. EMNLP 2025 Findings.
 
 - [DivIL: Unveiling and Addressing Over-Invariance for Out-of-Distribution Generalization](https://arxiv.org/abs/2502.12413), Jiaqi Wang\*, **Yuhang Zhou\***, Zhixiong Zhang\*, Qiguang Chen, Yongqiang Chen, James Cheng. TMLR 2025.
 
