@@ -1,4 +1,4 @@
-Hello! I'm an incoming master student at Fudan University. I received bachelor's degree from Harbin Institute of Technology in 2025.
+Hello! I'm a first-year master's student at Fudan University. I received bachelor's degree from Harbin Institute of Technology in 2025.
 
 My research interests lie in Large Language Models, Multimodal Learning, and Agents.
 
