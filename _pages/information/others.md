@@ -6,4 +6,4 @@
 
 # 💻 Internships
 
-- *2025.03 - now*, Research Intern, Tencent Hunyuan Team, China.
+- *2025.03 - now*, Research Intern, Tencent Hunyuan LLM Team, China.
