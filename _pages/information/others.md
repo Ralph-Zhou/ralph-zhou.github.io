@@ -1,6 +1,8 @@
 # 📖 Educations
 
-- *2021.06 - 2025.06*, Undergraduate, Computing Faculty, Harbin Institute of Technology.
+- *2025.09 - Now*, Master Student, Fudan University, Shanghai.
+
+- *2021.06 - 2025.06*, Undergraduate, Harbin Institute of Technology, Harbin.
 
 # 💻 Internships
 
