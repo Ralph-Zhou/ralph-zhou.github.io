@@ -1,6 +1,6 @@
 # 📝 Publications
 
-- [OffSeeker: Online Reinforcement Learning Is Not All You Need for Deep Research Agents](https://arxiv.org/abs/2601.18467), **Yuhang Zhou**, Kai Zheng, Qiguang Chen, Mengkang Hu, Qingfeng Sun, Can Xu, Jingjing Chen. Arxiv 2025.
+- [OffSeeker: Online Reinforcement Learning Is Not All You Need for Deep Research Agents](https://arxiv.org/abs/2601.18467), **Yuhang Zhou**, Kai Zheng, Qiguang Chen, Mengkang Hu, Qingfeng Sun, Can Xu, Jingjing Chen. Arxiv 2026.
 
 - [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](https://arxiv.org/pdf/2507.21046), Huan-ang Gao\*, Jiayi Geng\*, Wenyue Hua\*, Mengkang Hu\*, Xinzhe Juan\*, Hongzhang Liu\*, Shilong Liu\*, Jiahao Qiu\*, Xuan Qi\*, Yiran Wu\*, Hongru Wang\*, Han Xiao\*, **Yuhang Zhou\***, Shaokun Zhang\*, Jiayi Zhang, Jinyu Xiang, Yixiong Fang, Qiwen Zhao, Dongrui Liu, Qihan Ren, Cheng Qian, Zhenghailong Wang, Minda Hu, Huazheng Wang, Qingyun Wu, Heng Ji, Mengdi Wang. TMLR 2025.
 
